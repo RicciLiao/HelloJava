@@ -67,6 +67,6 @@ public class Template {
 		 * 
 		 */
 
-		System.out.println();
+		
 	}
 }
