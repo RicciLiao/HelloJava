@@ -75,9 +75,6 @@ public class Template {
 		 *       👇👇👇👇👇👇👇
 		 * 
 		 */
-		// RicciLiao 20180522 start --
-		gitHubMap.put("廖永聪", "RicciLiao");
-		// RicciLiao 20180522 end --
 		
 		
 		
